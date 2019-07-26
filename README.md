@@ -1,4 +1,5 @@
 # Learn Go the Hard Way
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gophergala/learn-Go-the-hard-way)
 
 Originated from the Go Gala hackthon.
 
